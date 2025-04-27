@@ -25,7 +25,7 @@ It supports:
     ```bash
       python psip.py
 
-#How to Toggle Lexical
-- Use command: 
+##How to Toggle Lexical
+- Use the command: 
 ```bash
   toggle
